@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "bef16be2-c60d-3fec-aee4-f866eac40c9e",
+    "name": "NT_ZED",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "40368607-d6df-31fe-aef6-81799374606e",
+    "name": "ntzed",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
